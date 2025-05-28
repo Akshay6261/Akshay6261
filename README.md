@@ -1,3 +1,47 @@
+- 👋  <!-- GitHub Profile README for a Fresher -->
+
+<h1 align="center">Hi there 👋, I'm [Akshay Kurmi]</h1>
+<h3 align="center">A passionate and curious developer from [India]</h3>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 I’m a recent pursuing graduate in *[Bechlores in computer application]* from *[Media Computer College]*  
+💡 I’m passionate about *[ Web Development, c++ with  Dsa,c,python, etc.]*  
+🔭 I’m currently working on improving my *[ React, Python, DSA, Open Source Contributions]*  
+🌱 I’m currently learning *[,Node js,React, etc.]*  
+💬 Ask me about *[ JavaScript, Python, C++, SQL, Git]*  
+📫 How to reach me: *[akshaykp6261@gmail.com]*  
+⚡ Fun fact: I debug like Sherlock Holmes investigates mysteries.
+
+---
+
+## 🛠 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 My Learning Journey
+
+- ✅ Completed *100+ DSA problems* on platforms like LeetCode & GeeksforGeeks
+- ✅ Built *4+ full-stack projects* including a portfolio website, blog platform, and task tracker
+- ✅ Participated in *hackathons* and won *[any award or just say 'experience']*
+- ✅ Contributed to *open-source* and made PRs to beginner-friendly repos
+
+---
 
 ## 📂 Featured Projects
 
@@ -19,7 +63,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" Akshay Kurmi ="_blank">
+  <a href="https://linkedin.com/in/yourusername" Akshay Kurmi "_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="akshaykp6261@gmail.com">
