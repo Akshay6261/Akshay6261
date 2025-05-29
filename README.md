@@ -1,6 +1,6 @@
 - 👋  <!-- GitHub Profile README for a Fresher -->
 
-<h1 align="center">Hi there 👋, I'm [Akshay Kurmi]</h1>
+<h1 align="center">Hi there 👋, I'm Akshay Kurmi</h1>
 <h3 align="center">A passionate and curious developer from [India]</h3>
 
 ---
