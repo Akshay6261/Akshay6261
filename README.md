@@ -47,9 +47,13 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Project 1 Name](https://github.com/yourusername/project1) | Short description of the project and purpose | React, Node.js, MongoDB |
-| [Project 2 Name](https://github.com/yourusername/project2) | Short description of the project and purpose | Python, Flask, SQLite |
-| [Portfolio Website](https://your-portfolio.com) | Personal website to showcase projects and blogs | HTML, CSS, JS |
+| [Project 1 Name](Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CSV
+• A GUI-based tool that automates dataset upload, model selection, and evaluates multiple ML algorithms to
+compare predictive performance with real-time visualizations) | Short description of the project and purpose | React, Node.js, MongoDB |
+| [Project 2 Name](Developed a user-friendly dashboard for doctors and pharmacists, integrating patient history and real-time
+medicine orders; this innovative tool is now utilized by 50+ healthcare professionals, improving response time to
+patient inquiries.) | Short description of the project and purpose | Python, Flask, SQLite |
+
 
 ---
 
@@ -63,14 +67,8 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" Akshay Kurmi "_blank">
-    <img src="- 👋  <!-- GitHub Profile README for a Fresher -->
-    </a>
-</p>
-    
----
-
-> “Strive to build things that make a difference.”" />
+  <a href="https://linkedin.com/in/yourusername" Akshay Kurmi ="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="akshaykp6261@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
@@ -79,13 +77,4 @@
 
 ---
 
-> “Strive to build things that make a difference.”" />
-  </a>
-  <a href="akshaykp6261@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-> “Strive to build things that make a difference.”
+> “Strive to build things that make a difference.”
