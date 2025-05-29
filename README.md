@@ -67,7 +67,7 @@ patient inquiries.) | Short description of the project and purpose | Python, Fla
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" Akshay Kurmi ="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" Akshay Kurmi ="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="akshaykp6261@gmail.com">
