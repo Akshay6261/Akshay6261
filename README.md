@@ -65,7 +65,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/akshay-kurmi-91400b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" Akshay Kurmi "_blank">
     <img src="- 👋  <!-- GitHub Profile README for a Fresher -->
-
+    </a>
+</p>
+    
 ---
 
 > “Strive to build things that make a difference.”" />
